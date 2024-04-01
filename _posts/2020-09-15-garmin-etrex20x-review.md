@@ -2,6 +2,7 @@
 layout: post
 title: Garmin Etrex 20x handheld GPS review
 subtitle: The almost perfect hiking GPS
+readtime: true
 cover-img: https://ik.imagekit.io/gearlama/blog/2020-09-15-garmin-etrex20x-review_0EQeYTDX-?updatedAt=1693674461979
 thumbnail-img: "" # avoids thumbnail
 tags: [review]

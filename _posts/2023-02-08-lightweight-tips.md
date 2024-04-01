@@ -3,6 +3,7 @@ layout: post
 title: Lightweight bicycle touring/bikepacking tips
 subtitle: Don't cut those toothbrush handles...yet
 tags: [bikepacking, tips]
+readtime: true
 cover-img: https://ik.imagekit.io/gearlama/blog/2023-02-08-lightweight-tips_ZlXBHSn6v.jpg?updatedAt=1693983155560
 thumbnail-img: "" # avoids thumbnail
 ---

@@ -3,6 +3,7 @@ layout: post
 title: Weight matters
 subtitle: Less effort is just one of the reasons to keep weight down
 tags: [bikepacking, editorial]
+readtime: true
 cover-img: https://ik.imagekit.io/gearlama/blog/2022-08-17-weight-matters__0whR8ZR8.jpg?updatedAt=1693980059986
 thumbnail-img: "" # avoids thumbnail
 ---

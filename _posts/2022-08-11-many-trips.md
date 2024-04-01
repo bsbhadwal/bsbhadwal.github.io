@@ -3,6 +3,7 @@ layout: post
 title: Many trips are better than one
 subtitle: The thrills and advantages of a micro-adventure
 tags: [bikepacking, editorial]
+readtime: true
 cover-img: https://ik.imagekit.io/gearlama/blog/2022-08-11-many-trips_xyYWMN8id.jpg?updatedAt=1693980345459
 thumbnail-img: "" # avoids thumbnail
 ---

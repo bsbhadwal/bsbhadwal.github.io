@@ -4,6 +4,7 @@ title: Adapt or Die
 subtitle: How Physical Indian Bike Shops Can Stay Alive
 cover-img: https://ik.imagekit.io/gearlama/blog/2023-10-30-adapt-or-die_y6-J8lXx0.jpg?updatedAt=1698653278140
 thumbnail-img: "" # avoids thumbnail
+readtime: true
 tags: [editorial]
 ---
 

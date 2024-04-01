@@ -3,6 +3,7 @@ layout: post
 title: The tale of the missing shoe
 subtitle: Sometimes, you just have to let the flow drag you in its wake
 tags: [bikepacking]
+readtime: true
 cover-img: https://ik.imagekit.io/gearlama/blog/2023-02-22-missing-shoe_8fVllkM9ZH.jpg?updatedAt=1693999216780
 thumbnail-img: "" # avoids thumbnail
 ---

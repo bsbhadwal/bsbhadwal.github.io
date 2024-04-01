@@ -2,6 +2,7 @@
 layout: post
 title: My Bergamont Sweep 4 story
 subtitle: Why I bought it in 2018 and used it for 3 years
+readtime: true
 tags: [review]
 ---
 When I was looking for a bicycle to buy out of my pocket in 2018 there was one thing I was sure about

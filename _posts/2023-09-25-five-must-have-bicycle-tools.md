@@ -3,6 +3,7 @@ layout: post
 title: Five must-have tools for a bicycle enthusiast
 subtitle: Start with these five tools to build your home workshop
 tags: [tips, list]
+readtime: true
 cover-img: https://ik.imagekit.io/gearlama/blog/2023-09-25-five-must-have-tools_IV5JWn-6b.jpg?updatedAt=1695628317653
 thumbnail-img: "" # avoids thumbnail
 ---

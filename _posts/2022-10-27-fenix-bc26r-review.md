@@ -3,6 +3,7 @@ layout: post
 title: Fenix BC26R bicycle light review
 subtitle: A must buy for endurance cyclist & bikepacker
 tags: [review]
+readtime: true
 cover-img: https://ik.imagekit.io/gearlama/blog/2022-10-27-fenix-bc26r-review_RDM2cpcOi.jpg?updatedAt=1693980718377
 thumbnail-img: "" # avoids thumbnail
 ---

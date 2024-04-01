@@ -3,6 +3,7 @@ layout: post
 title: Vocal for Local
 subtitle: Going local does not mean walling off the outside world. It means nurturing locally-owned businesses
 tags: [editorial]
+readtime: true
 cover-img: https://ik.imagekit.io/gearlama/blog/2023-03-09-vocal-for-local_kN3kDQvug.jpg?updatedAt=1694006535878
 thumbnail-img: "" # avoids thumbnail
 ---

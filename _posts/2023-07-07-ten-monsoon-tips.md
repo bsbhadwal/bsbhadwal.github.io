@@ -3,6 +3,7 @@ layout: post
 title: Ten monsoon cycling tips
 subtitle: Ten tips and tricks to safely keep cycling through the rainy season
 tags: [tips, list]
+readtime: true
 cover-img: https://ik.imagekit.io/gearlama/blog/2023-07-07-ten-monsoon-tips_HTfMCTJfT.jpg?updatedAt=1693999683090
 thumbnail-img: "" # avoids thumbnail
 ---

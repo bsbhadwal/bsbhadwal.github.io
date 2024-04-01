@@ -3,6 +3,7 @@ layout: post
 title: What to look for in a bicycle floor pump
 subtitle: tips to find the right floor pump
 tags: [tips]
+readtime: true
 cover-img: https://ik.imagekit.io/gearlama/blog/2023-09-26-which-bicycle-floor-pump-to-buy_2CeGjdvMO.jpeg?updatedAt=1695701744465
 thumbnail-img: "" # avoids thumbnail
 ---
