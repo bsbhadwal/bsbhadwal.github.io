@@ -33,7 +33,7 @@ This combination of practical design and affordability makes Smanie's sport rang
 
 But before we do that, I recommend spending the next 5 minutes watching this video because it provides a comprehensive overview of saddle anatomy and lists the various criteria that we will use to evaluate these saddles.
 
-[![Deciphering Bicycle Saddle Secrets: The Key Factors You Need to Know - Youtube Video](https://ik.imagekit.io/gearlama/blog/2024-05-25-a-comprehensive-guide-to-smanie-saddles-youtube_w1Kl8eA1z.jpg?tr=w-1080,pr-true)](https://youtu.be/COrWg2JXYgo)
+![Deciphering Bicycle Saddle Secrets: The Key Factors You Need to Know - Youtube Video](https://ik.imagekit.io/gearlama/blog/2024-05-25-a-comprehensive-guide-to-smanie-saddles-youtube_w1Kl8eA1z.jpg?tr=w-1080,pr-true)](https://youtu.be/COrWg2JXYgo)
 
 ### The Comfort King: Smanie EX Explorer Sport Saddle
 
@@ -57,7 +57,7 @@ The EX Explorer is slightly heavier than some other options and the thicker padd
 
 **Saddle Attributes**
 
-[![Smanie Ex Explorter saddle weight and shape](https://ik.imagekit.io/gearlama/blog/2024-05-25-a-comprehensive-guide-to-smanie-saddles-ex_cex7zrsbXJ.jpg?tr=h-1200,pr-true)]
+![Smanie Ex Explorter saddle weight and shape](https://ik.imagekit.io/gearlama/blog/2024-05-25-a-comprehensive-guide-to-smanie-saddles-ex_cex7zrsbXJ.jpg?tr=h-1200,pr-true)
 
 
 | Saddle Attribute        | Value                        |
@@ -94,7 +94,7 @@ The Delta Sport's shorter length offers less fore-aft movement compared to longe
 
 **Saddle Attributes**
 
-[![Smanie Delta Sport saddle weight and shape](https://ik.imagekit.io/gearlama/blog/2024-05-25-a-comprehensive-guide-to-smanie-saddles-delta_GCAoCQYuv.jpg?tr=h-1200,pr-true)]
+![Smanie Delta Sport saddle weight and shape](https://ik.imagekit.io/gearlama/blog/2024-05-25-a-comprehensive-guide-to-smanie-saddles-delta_GCAoCQYuv.jpg?tr=h-1200,pr-true)
 
 | Saddle Attribute        | Value                        |
 |-------------------------|------------------------------|
@@ -125,7 +125,7 @@ Compared to other Smanie saddles, the Apex features thinner gel and PU foam padd
 
 **Saddle Attributes**
 
-[![Smanie Apex Sport saddle weight and shape](https://ik.imagekit.io/gearlama/blog/2024-05-25-a-comprehensive-guide-to-smanie-saddles-apex_37VbCTdlU.jpg?tr=h-1200,pr-true)]
+![Smanie Apex Sport saddle weight and shape](https://ik.imagekit.io/gearlama/blog/2024-05-25-a-comprehensive-guide-to-smanie-saddles-apex_37VbCTdlU.jpg?tr=h-1200,pr-true)
 
 | Saddle Attribute        | Value                        |
 |-------------------------|------------------------------|
@@ -160,7 +160,7 @@ Smanie DRS is a good option for riders who prioritize aerodynamics and power tra
 
 **Saddle Attributes**
 
-[![Smanie DRS Sport saddle weight and shape](https://ik.imagekit.io/gearlama/blog/2024-05-25-a-comprehensive-guide-to-smanie-saddles-drs_kKYfILkiW.jpg?tr=h-1200,pr-true)]
+![Smanie DRS Sport saddle weight and shape](https://ik.imagekit.io/gearlama/blog/2024-05-25-a-comprehensive-guide-to-smanie-saddles-drs_kKYfILkiW.jpg?tr=h-1200,pr-true)
 
 | Saddle Attribute        | Value                        |
 |-------------------------|------------------------------|
