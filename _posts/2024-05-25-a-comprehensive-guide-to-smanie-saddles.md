@@ -57,7 +57,7 @@ The EX Explorer is slightly heavier than some other options and the thicker padd
 
 **Saddle Attributes**
 
-![Smanie Ex Explorter saddle weight and shape](https://ik.imagekit.io/gearlama/blog/2024-05-25-a-comprehensive-guide-to-smanie-saddles-ex_cex7zrsbXJ.jpg?tr=h-1200,pr-true)
+![Smanie Ex Explorer saddle weight and shape](https://ik.imagekit.io/gearlama/blog/2024-05-25-a-comprehensive-guide-to-smanie-saddles-ex_cex7zrsbXJ.jpg?tr=h-1200,pr-true)
 
 
 | Saddle Attribute        | Value                        |
@@ -113,7 +113,7 @@ The Delta Sport's shorter length offers less fore-aft movement compared to longe
 
 ### The Smanie Apex: Freedom and Comfort for Every Ride
 
-For riders who crave freedom of movement and a comfortable ride on varied terrain, the Smanie Apex saddle delivers a perfect blend of support and performance. Its short, wide shape and gentle curvature provide a stable platform for moderate to hard efforts, making it ideal for everything from tarmac commutes to weekend gravel adventures. I've ridden the Apex for over six hours on a variety of routes, including tarmac and gravel, for rides ranging from 30 to 150 kilomnetres.
+For riders who crave freedom of movement and a comfortable ride on varied terrain, the Smanie Apex saddle delivers a perfect blend of support and performance. Its short, wide shape and gentle curvature provide a stable platform for moderate to hard efforts, making it ideal for everything from tarmac commutes to weekend gravel adventures. I've ridden the Apex for over six hours on a variety of routes, including tarmac and gravel, for rides ranging from 30 to 150 kilometres.
 
 **Designed for Rider Comfort**
 
@@ -156,7 +156,7 @@ Epitomising the evolution of the modern racing saddle, the DRS boasts sleek line
 
 **Considerations:**
 
-Smanie DRS is a good option for riders who prioritize aerodynamics and power transfer over plush comfort. If you tend to ride in a more upright position or for longer distances, you might want to consider a different saddle with more padding and a wider seating area.
+Smanie DRS is a good option for riders who prioritise aerodynamics and power transfer over plush comfort. If you tend to ride in a more upright position or for longer distances, you might want to consider a different saddle with more padding and a wider seating area.
 
 **Saddle Attributes**
 
@@ -193,5 +193,6 @@ Here's a complete comparison of all 4 Smanie models. With 1 being the lowest and
 | **Best for**                	| Commuting, Hybrid, Touring 	| XC, Training, Bikepacking 	| Daily rides, Drop bar 	| Aggressive Racing, Drop bar 	|
 
 ---
+
 With this guide, you're now equipped with the knowledge to make an informed decision when choosing your next Smanie saddle. Remember, the right saddle can significantly enhance your cycling experience, so take the time to find the perfect fit for you. Happy riding!
-Remember, as with any bicycle gear you can find the best prices for Samnie Saddles on GearLama.
+Remember, as with any bicycle gear you can find the best prices for [Smanie Saddles on GearLama](https://gearlama.com/search?q=smanie%20saddle).
