@@ -22,7 +22,7 @@ Additionally, I've found Smanie saddles to be competitively priced in the Indian
 
 ## Smanie India 2024 range
 
-Smanie introduces its sport range in India, emphasising value for money without compromising on essential features. These saddles prioritise affordability over lightweight attributes, opting for Chromoly steel rails known for their durability, albeit slightly heavier compared to other materials. In the 2024 lineup, Smanie offers four models tailored to modern cycling needs, each featuring a contemporary V shape and a strategically placed cutout for enhanced comfort and protection against groin numbness. These are:
+Smanie introduces its sport range in India, emphasising value for money without compromising on essential features. These saddles prioritise affordability over lightweight attributes, opting for steel rails known for their durability, albeit slightly heavier compared to other materials. In the 2024 lineup, Smanie offers four models tailored to modern cycling needs, each featuring a contemporary V shape and a strategically placed cutout for enhanced comfort and protection against groin numbness. These are:
 
 1. **Smanie EX Explorer Sport**
 2. **Smanie Delta Sport**
