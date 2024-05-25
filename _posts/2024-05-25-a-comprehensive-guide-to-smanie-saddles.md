@@ -5,7 +5,7 @@ subtitle: Choosing the Perfect Fit for Your Ride
 cover-img: https://ik.imagekit.io/gearlama/blog/2024-05-25-a-comprehensive-guide-to-smanie-saddles-cover_YRjqRMn_l.jpg??tr=w-1080,pr-true
 thumbnail-img: "" # avoids thumbnail
 readtime: true
-tags: [gear]
+tags: [review]
 ---
 
 Finding the right bicycle saddle can indeed be a challenging task due to the plethora of options available, each catering to different preferences and needs. However, by focusing on the scientific aspects rather than solely relying on personal preferences, you can simplify the selection process.
@@ -33,7 +33,7 @@ This combination of practical design and affordability makes Smanie's sport rang
 
 But before we do that, I recommend spending the next 5 minutes watching this video because it provides a comprehensive overview of saddle anatomy and lists the various criteria that we will use to evaluate these saddles.
 
-![Deciphering Bicycle Saddle Secrets: The Key Factors You Need to Know - Youtube Video](https://ik.imagekit.io/gearlama/blog/2024-05-25-a-comprehensive-guide-to-smanie-saddles-youtube_w1Kl8eA1z.jpg?tr=w-1080,pr-true)](https://youtu.be/COrWg2JXYgo)
+[![Deciphering Bicycle Saddle Secrets: The Key Factors You Need to Know - Youtube Video](https://ik.imagekit.io/gearlama/blog/2024-05-25-a-comprehensive-guide-to-smanie-saddles-youtube_w1Kl8eA1z.jpg?tr=w-1080,pr-true)](https://youtu.be/COrWg2JXYgo)
 
 ### The Comfort King: Smanie EX Explorer Sport Saddle
 
