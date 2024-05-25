@@ -5,7 +5,7 @@ subtitle: Choosing the Perfect Fit for Your Ride
 cover-img: https://ik.imagekit.io/gearlama/blog/2024-05-25-a-comprehensive-guide-to-smanie-saddles-cover_YRjqRMn_l.jpg??tr=w-1080,pr-true
 thumbnail-img: "" # avoids thumbnail
 readtime: true
-tags: [review]
+tags: [guide]
 ---
 
 Finding the right bicycle saddle can indeed be a challenging task due to the plethora of options available, each catering to different preferences and needs. However, by focusing on the scientific aspects rather than solely relying on personal preferences, you can simplify the selection process.
