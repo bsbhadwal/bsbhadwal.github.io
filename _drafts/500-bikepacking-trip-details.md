@@ -8,6 +8,8 @@ tags: [trip report]
 ---
 A mule path that leads to a 3744m mountain pass in the Pir Panjal mountain range. I had scouted this route on a hike last summer and it was the right candidate to try on a hardtail.
 
+
+
 ## Route breakdown
 - 110 kms of metalled road leading to a major town.
 - 60 kilometer dirt road from the town.
@@ -88,3 +90,6 @@ I missed carrying my travel towl on this tour. Usually I wash my face at a strea
 
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQwMzA1NjYzN119
+-->
