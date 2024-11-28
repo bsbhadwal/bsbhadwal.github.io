@@ -15,7 +15,7 @@ A floor pump with a gauge is crucial for maintaining the correct tire pressure. 
 
 ### My Pick
 - Budget - [Icetoolz Sport Steel Floor Pump](https://gearlama.com/search?q=IceToolz+Sport+Steel+Floor+Pump)
-- Premium - [Lezyne Macro Floor Drive Digital](https://gearlama.com/search?q=Lezyne+Macro+Floor+Drive+Digital)
+- Premium - [Lezyne Macro Floor Drive Digital](https://www.worldofwheelz.in/product/lezyne-micro-floor-drive-hvhigh-volume-pump?utm_source=gearlama&utm_medium=website&utm_id=gearlama.com&wow_utm_id=AFFL1732102702)
 
 ## 2. Tyre levers
 Wide plastic tyre levers are essential for removing wired tires without damaging the rims or pinching the tube. They save your hands and are a must-have for any cyclist. While plastic tyre levers they might bend, they don't break off easily.
