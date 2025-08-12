@@ -1,22 +1,22 @@
 # Setup
-title:               Bharat Singh Bhadwal
-tagline:             'Thoughts, Projects, and Experiments'
-description:         'Personal site of Bharat Singh Bhadwal — sharing ideas, projects, and notes on technology & AI adventures.'
-url:                 https://https://bsbhadwal.github.io/
-baseurl:             ''
-paginate:            5
-permalink:           pretty
+title: Bharat Singh Bhadwal
+tagline: 'Thoughts, Projects, and Experiments'
+description: 'Personal site of Bharat Singh Bhadwal — sharing ideas, projects, and notes on technology & AI adventures.'
+url: https://https://bsbhadwal.github.io/
+baseurl: 'https://https://bsbhadwal.github.io/'
+paginate: 5
+permalink: pretty
 
 # About/contact
 author:
-  name:              Bharat Singh Bhadwal
-  url:               https://x.com/bsbhadwal
-  email:             bsbhadwal@gmail.com
+  name: Bharat Singh Bhadwal
+  url: https://x.com/bsbhadwal
+  email: bsbhadwal@gmail.com
 
 # Gems
 plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             1.1.0
+version: 1.1.0
 google_analytics_id: UA-146052-15
