@@ -1,8 +1,6 @@
 ---
 layout: post
-title: "Think for Yourself — Lessons from a Linus Torvalds Email"
-date: 2025-08-12
-categories: tech culture programming
+title: Think for Yourself — Lessons from a Linus Torvalds Email
 ---
 
 A few days ago, Linus Torvalds (yes, *that* Linus — the creator of Linux) sent a blunt rejection to a RISC-V patch submission. The email was, in classic Linus fashion, politically incorrect, gruff, and brutally honest.
