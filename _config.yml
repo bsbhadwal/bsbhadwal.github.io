@@ -1,9 +1,9 @@
 # Setup
 title: Bharat Singh Bhadwal
-tagline: 'Thoughts, Projects, and Experiments'
-description: 'Personal site of Bharat Singh Bhadwal — sharing ideas, projects, and notes on technology & AI adventures.'
-url: https://https://bsbhadwal.github.io/
-baseurl: 'https://https://bsbhadwal.github.io/'
+tagline: "Notes on technology, AI, and building better systems"
+description: "I write about technology, AI, and the lessons learned from building software in the real world — clear, practical, and occasionally opinionated."
+url: https://bsbhadwal.github.io/
+baseurl: 'https://bsbhadwal.github.io/'
 paginate: 5
 permalink: pretty
 
