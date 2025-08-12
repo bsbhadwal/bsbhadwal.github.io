@@ -3,27 +3,26 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Hi, I’m Bharat Singh Bhadwal
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I build software, lead AI projects, and write about the lessons learned along the way.
 
-There are currently two themes built on Poole:
+My work has taken me from hands-on coding to architecting large-scale AI and search systems. Along the way, I’ve picked up a few strong opinions on how technology should be built — and a lot of stories about when things didn’t go to plan.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+This site is my space to share those ideas:  
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+- Practical insights from real-world projects  
+- Thoughts on technology, AI, and project management  
+- Occasional deep dives into tools, systems, and design choices  
 
-## Setup
+I believe the best ideas come from thinking for yourself, questioning assumptions, and learning from both successes and mistakes.
 
-Some fun facts about the setup of this project include:
+When I’m not building or writing, you’ll probably find me on a cycling trail, reading something unexpected, or experimenting with a new side project.
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
+---
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+**Elsewhere**  
 
-Thanks for reading!
+- [X (Twitter)](https://x.com/bsbhadwal)  
+- [GitHub](https://github.com/bsbhadwal)  
+- Email: [bsbhadwal@gmail.com](mailto:bsbhadwal@gmail.com)
