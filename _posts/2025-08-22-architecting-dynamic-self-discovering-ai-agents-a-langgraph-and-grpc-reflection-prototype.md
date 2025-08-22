@@ -48,11 +48,13 @@ Activating the reflection service on a Python gRPC server is a straightforward p
 
 1. Import Dependencies: The necessary reflection modules are imported: from grpc\_reflection.v1alpha import reflection.  
 2. Define Service Names: A tuple of service names that will be discoverable via reflection is created. This tuple must include the fully-qualified names of all application-specific services as well as the reflection service itself. The service names are retrieved from the DESCRIPTOR object in the generated \_pb2.py file.  
-   Python  
+
+```Python  
    SERVICE\_NAMES \= (  
        my\_service\_pb2.DESCRIPTOR.services\_by\_name.full\_name,  
        reflection.SERVICE\_NAME,  
    )
+```
 
 3. Enable the Service: The enable\_server\_reflection function is called, passing the list of service names and the server instance.  
    Python  
@@ -102,6 +104,7 @@ First, we define the service contract in a .proto file. The Greeter service cont
 
 Protocol Buffers
 
+```
 // greeter.proto  
 syntax \= "proto3";
 
@@ -122,6 +125,7 @@ message HelloRequest {
 message HelloReply {  
   string message \= 1;  
 }
+```
 
 ### Code Generation
 
@@ -154,6 +158,8 @@ import greeter\_pb2\_grpc
 class Greeter(greeter\_pb2\_grpc.GreeterServicer):  
     """Implements the Greeter service logic."""
 
+
+```
     def SayHello(self, request, context):  
         """Handles the SayHello RPC call."""  
         logging.info(f"Received SayHello request for name: {request.name}")  
@@ -188,6 +194,7 @@ def serve():
 if \_\_name\_\_ \== '\_\_main\_\_':  
     logging.basicConfig(level=logging.INFO)  
     serve()
+```
 
 The most critical part of this server implementation is the enablement of the reflection service. The SERVICE\_NAMES tuple explicitly registers both our greeter.Greeter service and the standard grpc.reflection.v1alpha.ServerReflection service. Without this step, the server would run but would be opaque to our dynamic agent.10
 
@@ -195,7 +202,7 @@ The most critical part of this server implementation is the enablement of the re
 
 This module contains the innovative core of the prototype. The GrpcToolFactory class is responsible for connecting to a gRPC server, using reflection to discover its services and methods, and dynamically manufacturing fully functional LangChain Tool objects from the discovered schemas.
 
-Python
+```Python
 
 \# tool\_factory.py  
 import json  
@@ -345,6 +352,7 @@ class GrpcToolFactory:
     def close(self):  
         """Closes the gRPC channel."""  
         self.\_channel.close()
+```
 
 This factory encapsulates the entire discovery and tool creation logic. The \_protobuf\_to\_json\_schema method is the critical translation layer, converting the strongly-typed Protobuf schema into a JSON Schema that an LLM can understand and use for function calling. The \_invoke\_grpc\_tool wrapper demonstrates how to perform a fully dynamic gRPC call without any generated stub code, using the generic channel.unary\_unary method and dynamic message (de)serialization.
 
@@ -352,7 +360,7 @@ This factory encapsulates the entire discovery and tool creation logic. The \_pr
 
 The final component is the LangGraph agent itself. This script defines the agent's state, nodes, and control flow. Crucially, it uses the GrpcToolFactory at startup to dynamically populate its toolset.
 
-Python
+```Python
 
 \# agent.py  
 import os  
@@ -421,6 +429,8 @@ workflow.add\_edge("action", "agent")
 \# Compile the graph into a runnable object  
 app \= workflow.compile()
 
+```
+
 This script cleanly separates the concerns. The agent's logic (the graph definition) is generic. The specific tools it uses are not hard-coded but are injected at runtime by the GrpcToolFactory. This makes the agent reusable and adaptable to any environment of gRPC services that have reflection enabled.
 
 ## Section 4: End-to-End Execution and Analysis
@@ -431,7 +441,7 @@ With all components implemented, this section demonstrates the complete workflow
 
 A simple main script is required to run the gRPC server in a background process and interact with the compiled LangGraph agent.
 
-Python
+```Python
 
 \# main.py  
 import logging  
@@ -476,6 +486,7 @@ if \_\_name\_\_ \== "\_\_main\_\_":
         server\_process.terminate()  
         server\_process.join()  
         logging.info("Server process terminated.")
+```
 
 ### Execution Trace
 
